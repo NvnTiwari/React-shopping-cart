@@ -1,0 +1,14 @@
+.custom-card-img-top {
+    width: 30% !important;
+    margin-left: 34%;
+    margin-top: 3%;
+}
+span {
+    font-weight: bolder;
+}
+.desc {
+    font-size: 12px;
+}
+.btn {
+    margin-top: 2%;
+}

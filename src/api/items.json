@@ -1,0 +1,124 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "rupeeSign": "₹",
+            "price": 13999,
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Redmi Note 6 (16 GB RAM)",
+            "price": 45000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Redmi Note 7(Space Black, 64 GB)  (4 GB RAM)",
+            "price": 20000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Redmi(4 GB)  (4 GB RAM)",
+            "price": 5000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Redmi Note (Space Black, 16 GB)  (4 GB RAM)",
+            "price": 7500,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 13000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 6000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 12122,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 13999,
+            "img": "redmi.jpeg",
+            "rupeeSign": "₹",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 71000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 20100,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Redmi Note 7 Pro (Space Black, 64 GB)  (4 GB RAM)",
+            "price": 26000,
+            "rupeeSign": "₹",
+            "img": "redmi.jpeg",
+            "desc": [
+                "4 GB RAM | 64 GB ROM", "16.0 cm FHD", "48MP + 5 MP | 13 MP Front Camera", "4000 mAh Li-polymer battery", "Splash Proof"
+            ]
+        }
+    ]
+}
